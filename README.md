@@ -13,9 +13,9 @@ This project was developed with the following technologies:
 
 ## Functionalities
 
-- Criar, editar e excluir notas
-- Ferramenta de busca
-- Organização
+- Create, edit and delete notes
+- Search tool
+- Organization
 
 
 ## 🔗 Links
